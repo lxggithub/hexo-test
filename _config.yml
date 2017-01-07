@@ -64,8 +64,7 @@ pagination_dir: page  #分页目录
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jacman     
-## landscape
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
