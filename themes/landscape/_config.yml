@@ -31,6 +31,6 @@ show_count: false
 google_analytics:
 favicon: /favicon.png
 twitter:
-google_plus:
+google_plus:  # 第一步 更换成百度统计 baidu_tongji: true 第二步 建立文件->themes/yilia/layout/_partial/baidu_tongji.ejs
 fb_admins:
 fb_app_id:
